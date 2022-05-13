@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorEyesOn" format="color" />
+    <attr name="colorNoseOn" format="color" />
+    <attr name="colorEyesOff" format="color" />
+    <attr name="colorNoseOff" format="color" />
+</resources>

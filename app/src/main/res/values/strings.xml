@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Honker</string>
+    <string name="no_disponible">No hay servicio de reconocimiento de voz disponible en el sistema</string>
+    <string name="cancelar">Cancelar</string>
+</resources>

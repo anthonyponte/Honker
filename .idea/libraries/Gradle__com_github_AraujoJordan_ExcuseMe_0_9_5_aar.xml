@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AraujoJordan:ExcuseMe:0.9.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/057a757ad04e36e78dfc410214a392a9/transformed/jetified-ExcuseMe-0.9.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/057a757ad04e36e78dfc410214a392a9/transformed/jetified-ExcuseMe-0.9.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/057a757ad04e36e78dfc410214a392a9/transformed/jetified-ExcuseMe-0.9.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AraujoJordan/ExcuseMe/0.9.5/b5f71d8715cfb4083ab6042efca65a6f9d0a5a68/ExcuseMe-0.9.5-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AraujoJordan/ExcuseMe/0.9.5/33009bef4f73e688e1080619f4cef571b6543184/ExcuseMe-0.9.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
